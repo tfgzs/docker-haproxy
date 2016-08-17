@@ -39,7 +39,7 @@ docker run -it --entrypoint /bin/bash -p 80:80 -p 443:443 --name=haproxy -v /vol
 http://cbonte.github.io/haproxy-dconv/1.6/configuration.html  
 http://www.ttlsa.com/linux/haproxy-study-tutorial/
 
-https://hub.docker.com/r/rafpe/docker-haproxy-rsyslog/
+https://hub.docker.com/r/rafpe/docker-haproxy-rsyslog/  
 https://rafpe.ninja/2016/05/16/haproxy-logging-within-docker-container/
 
  
